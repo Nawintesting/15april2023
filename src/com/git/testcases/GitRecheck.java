@@ -6,6 +6,7 @@ public class GitRecheck {
 		// TODO Auto-generated method stub
 		
 		System.out.println("GIT RECHECK");
+		System.out.println("MOdified 1");
 	}
 
 }
