@@ -1,5 +1,5 @@
 package com.git.testcases;
-class GitCheck{
+class GitCheck3{
 	
 	public void hello(){
 		System.out.println("Hello method");
@@ -7,7 +7,7 @@ class GitCheck{
 	}
 	
 }
-public class GitRecheck {
+public class GitRecheck1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
