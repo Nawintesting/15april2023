@@ -3,6 +3,7 @@ class GitCheck{
 	
 	public void hello(){
 		System.out.println("Hello method");
+		System.out.println("Unstageing ");
 	}
 	
 }
